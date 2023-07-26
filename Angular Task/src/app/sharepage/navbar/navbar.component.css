@@ -1,0 +1,16 @@
+ .navbar-dark .navbar-nav .nav-link.active-link{
+    color: whitesmoke;
+    font-weight: bold;
+ }
+
+ .navheading{
+   font-size: x-large;
+   font-weight:500;
+   font-size: 30px;
+ }
+ .slogan{
+   font-style: italic;
+   font-size: 15px;
+   padding: 5px;
+ }
+ 

@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+      <a class="navbar-brand mt-1 mb-3" routerLink=" " routerLinkActive="active-link"><span class="navheading">WombWise</span><br><span class="slogan">A Seamless Path to a Healthy and Happy Motherhood</span></a>
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link active" routerLink="/FindDoctors" routerLinkActive="active-link"[routerLinkActiveOptions]={exact:true}>FindDoctors</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" routerLink="/VideoConsultant" routerLinkActive="active-link"[routerLinkActiveOptions]={exact:true}>VideoConsultant</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" routerLink="/Medicines">Medicines</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/LabTests">LabTests</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/Surgeries"routerLinkActive="active-link">Surgeries</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="/TalktoUs"  routerLinkActive="active-link" tabindex="-1" aria-disabled="true">TalktoUs</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
