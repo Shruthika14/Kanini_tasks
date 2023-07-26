@@ -1,2 +1,5 @@
-# Kanini_tasks
-[Kanini] Tech Tasks Repository  This repository contains various tech tasks completed by [Kanini]. The tasks cover a wide range of technologies, including HTML, CSS, JavaScript, Bootstrap, SQL, C#, .NET, Angular, and React. These tasks serve as valuable learning resources.
+# [KANINI] Tech Tasks Repository
+
+Welcome to the [KANINI] Tech Tasks repository! Here, you will find a collection of tech tasks that cover a diverse range of technologies, including HTML, CSS, JavaScript, Bootstrap, SQL, C#, .NET, Angular, and React.
+
+
