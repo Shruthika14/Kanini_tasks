@@ -1,0 +1,45 @@
+p{
+    margin-left: 10px;
+    color: white;
+}
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    padding: 0 20px;
+    border-top: 20px solid black;
+    position: relative;
+    padding-top: 20px;
+    box-sizing: border-box;
+    
+}
+h1{
+    margin-left: 20px;
+}
+.int img:hover{
+    filter: grayscale(100%);
+}
+.int img{
+    transition: 0.5s;
+}
+footer{
+    background-color: black;
+    height: 200px;
+    
+ }
+ .socials{
+    list-style-type: none;
+    display: flex;
+    margin-left: 38%;
+    padding-top: 70px;
+ }
+ li{
+    padding-left: 10px;
+ }
+ .copy{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+ }
+

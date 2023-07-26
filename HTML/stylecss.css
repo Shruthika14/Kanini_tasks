@@ -1,0 +1,145 @@
+
+nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    padding: 0 20px;
+    border-top: 20px solid black;
+    position: relative;
+    padding-top: 20px;
+    box-sizing: border-box;
+    align-items: center;
+    
+}
+nav ul{
+    display: flex;
+}
+nav ul{
+    list-style-type: none;
+    margin-top:20px;
+}
+nav ul li{
+    margin:0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color:white;
+    
+}
+.but1{
+
+color:black;
+}
+
+
+button{
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+.container {
+    display: inline-block;
+    cursor: pointer;
+  }
+  .bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color:white;
+    margin: 6px 0;
+    transition: 0.4s;
+    
+  }
+  .icon{
+    margin-left: 1230px;
+    
+  }
+  .arrow{
+    font-weight: bold;
+  }
+ .carousel-control-prev-icon{
+    background-color: black;
+ }
+ .carousel-control-next-icon{
+    background-color: black;
+ }
+footer{
+    background-color: black;
+    height: 200px;
+    
+ }
+ .socials{
+    list-style-type: none;
+    display: flex;
+    margin-left: 38%;
+    padding-top: 70px;
+ }
+ li{
+    padding-left: 10px;
+ }
+ .copy{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+ }
+ .login{
+    text-decoration: none;
+    color: white;
+ }
+ .logo{
+    margin-top: -10px;
+ }
+ .Subscribe{
+    margin-left: 1000px;
+ }
+ .pic{
+   text-align: center;
+   font-weight: bolder;
+   font-size: xx-large;
+ }
+ .parallax {
+   background-image: url("bnw1.jpeg");
+
+   min-height: 600px; 
+ 
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ .parallaxx{
+   
+   background-image: url("bnw.png.jpg");
+ 
+   min-height: 600px; 
+ 
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ .pict{
+   text-align: center;
+   font-weight: bolder;
+   font-size: xx-large;
+ }
+ .parallaxxx{
+   
+   background-image: url("bnw8.jpg");
+ 
+   min-height: 600px; 
+ 
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+ .pictu{
+   text-align: center;
+   font-weight: bolder;
+   font-size: xx-large;
+ }
